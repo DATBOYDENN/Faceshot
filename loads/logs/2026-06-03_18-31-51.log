@@ -1,0 +1,86 @@
+[2026-06-03 18:31:51.225] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-06-03 18:31:51.225] [Xeno] [info] Version: Xeno - v1.3.50
+[2026-06-03 18:31:51.225] [Xeno] [info] Log file: C:\Users\holla\source\repos\Loader\Loader\bin\x64\Release\logs\2026-06-03_18-31-51.log
+[2026-06-03 18:31:51.230] [Xeno] [debug] Client Checker thread: 0x5ecc5fdac0
+[2026-06-03 18:31:51.230] [Xeno] [debug] Xeno Caching thread: 0x5ecc5fdab0
+[2026-06-03 18:31:51.230] [Xeno] [debug] WebSockets Cleaner thread: 0x5ecc5fdaa0
+[2026-06-03 18:31:51.230] [Xeno] [debug] Xeno Server thread: 0x5ecc5fda90
+[2026-06-03 18:31:51.230] [Cache] [info] Caching file: C:\Users\holla\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-06-03 18:31:51.231] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-06-03 18:31:51.231] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-06-03 18:31:51.240] [Xeno] [info] Creating new RBXClient: 24888
+[2026-06-03 18:31:51.240] [RBXClient] [info] [24888]: Initializing...
+[2026-06-03 18:31:51.240] [RBXClient] [info] [24888]: Version: version-ad5d3e2906444472
+[2026-06-03 18:31:51.240] [Xeno] [debug] Created RBXClient instance @0x16ba5b70390
+[2026-06-03 18:31:51.240] [Xeno] [info] Successfully created RBXClient: 24888
+[2026-06-03 18:31:51.240] [RBXClient] [trace] [24888]: Attempting to retrieve RBXClient data...
+[2026-06-03 18:31:51.326] [RBXClient] [trace] [24888]: Successfully retrieved RBXClient data (Primary)
+[2026-06-03 18:31:51.326] [RBXClient] [error] [24888]: Offsets for version "version-ad5d3e2906444472" not found. Using offsets from default version: version-460909c4fe904aae. Please report this to me (Rizve)
+[2026-06-03 18:31:51.326] [RBXClient] [debug] [24888]: Fetching DataModel...
+[2026-06-03 18:31:51.364] [RBXClient] [debug] [24888]: 	String: 0x11f8eea8108
+[2026-06-03 18:31:51.364] [RBXClient] [debug] [24888]: 	RenderView: 0x11f8edaeb80
+[2026-06-03 18:31:51.467] [RBXClient] [debug] [24888]: Bytecode Hash Map: 0x0 (@0x0)
+[2026-06-03 18:31:51.468] [RBXClient] [debug] [24888]: DataModel (Ugc): 0x11f87033e48
+[2026-06-03 18:31:51.469] [RBXClient] [debug] [24888]: LocalPlayer: 0x11f92df1880
+[2026-06-03 18:31:51.469] [RBXClient] [debug] [20littlemen2 (24888)]: LocalPlayer Name: '20littlemen2'
+[2026-06-03 18:31:51.469] [RBXClient] [trace] [20littlemen2 (24888)]: Attaching in-game using translation module.
+[2026-06-03 18:31:51.568] [RBXClient] [debug] [20littlemen2 (24888)]: Bytecode Hash Map: 0x0 (@0x0)
+[2026-06-03 18:31:51.568] [RBXClient] [warning] [20littlemen2 (24888)]: Could not find bytecode hash map, retrying... (2 tries left)
+[2026-06-03 18:31:51.643] [RBXClient] [debug] [20littlemen2 (24888)]: Bytecode Hash Map: 0x0 (@0x0)
+[2026-06-03 18:31:51.644] [RBXClient] [warning] [20littlemen2 (24888)]: Could not find bytecode hash map, retrying... (1 tries left)
+[2026-06-03 18:31:51.722] [RBXClient] [debug] [20littlemen2 (24888)]: Bytecode Hash Map: 0x0 (@0x0)
+[2026-06-03 18:31:51.722] [RBXClient] [warning] [20littlemen2 (24888)]: Could not find bytecode hash map, retrying... (0 tries left)
+[2026-06-03 18:31:51.722] [RBXClient] [critical] [20littlemen2 (24888)]:  Failed to find bytecode hash map
+[2026-06-03 18:31:55.383] [Execution] [error] [24888]: Could not find a CoreModule; Client is not attached
+[2026-06-03 18:31:55.448] [Execution] [error] [24888]: Could not find a CoreModule; Client is not attached
+[2026-06-03 18:31:55.495] [Execution] [error] [24888]: Could not find a CoreModule; Client is not attached
+[2026-06-03 18:32:12.340] [Execution] [error] [24888]: Could not find a CoreModule; Client is not attached
+[2026-06-03 18:32:12.404] [Execution] [error] [24888]: Could not find a CoreModule; Client is not attached
+[2026-06-03 18:32:12.451] [Execution] [error] [24888]: Could not find a CoreModule; Client is not attached
+[2026-06-03 18:32:27.969] [Execution] [error] [24888]: Could not find a CoreModule; Client is not attached
+[2026-06-03 18:32:28.031] [Execution] [error] [24888]: Could not find a CoreModule; Client is not attached
+[2026-06-03 18:32:28.076] [Execution] [error] [24888]: Could not find a CoreModule; Client is not attached
+[2026-06-03 18:32:31.033] [Execution] [error] [24888]: Could not find a CoreModule; Client is not attached
+[2026-06-03 18:32:31.098] [Execution] [error] [24888]: Could not find a CoreModule; Client is not attached
+[2026-06-03 18:32:31.146] [Execution] [error] [24888]: Could not find a CoreModule; Client is not attached
+[2026-06-03 18:32:33.007] [RBXClient] [trace] [20littlemen2 (24888)][::~RBXClient]: Client was closed and cleaned up successfully
+[2026-06-03 18:32:33.007] [Xeno] [info] Removed RBXClient: 24888
+[2026-06-03 18:32:38.022] [Xeno] [info] Cleaned up '24888' from InitializedClients
+[2026-06-03 18:32:48.248] [Xeno] [info] Creating new RBXClient: 21228
+[2026-06-03 18:32:48.248] [RBXClient] [info] [21228]: Initializing...
+[2026-06-03 18:32:48.248] [RBXClient] [info] [21228]: Version: version-ad5d3e2906444472
+[2026-06-03 18:32:48.248] [Xeno] [debug] Created RBXClient instance @0x16ba5ce4400
+[2026-06-03 18:32:48.248] [Xeno] [info] Successfully created RBXClient: 21228
+[2026-06-03 18:32:48.248] [RBXClient] [trace] [21228]: Attempting to retrieve RBXClient data...
+[2026-06-03 18:32:48.308] [RBXClient] [trace] [21228]: Successfully retrieved RBXClient data (Primary)
+[2026-06-03 18:32:48.308] [RBXClient] [error] [21228]: Offsets for version "version-ad5d3e2906444472" not found. Using offsets from default version: version-460909c4fe904aae. Please report this to me (Rizve)
+[2026-06-03 18:32:48.308] [RBXClient] [debug] [21228]: Fetching DataModel...
+[2026-06-03 18:32:48.341] [RBXClient] [debug] [21228]: 	String: 0x1fd8fbd8108
+[2026-06-03 18:32:48.342] [RBXClient] [debug] [21228]: 	RenderView: 0x1fd8faeeb80
+[2026-06-03 18:32:48.440] [RBXClient] [debug] [21228]: Bytecode Hash Map: 0x0 (@0x0)
+[2026-06-03 18:32:48.441] [RBXClient] [debug] [21228]: DataModel (Ugc): 0x1fd85b03e48
+[2026-06-03 18:32:48.442] [RBXClient] [debug] [21228]: LocalPlayer: 0x1fd889c3080
+[2026-06-03 18:32:48.442] [RBXClient] [debug] [20littlemen2 (21228)]: LocalPlayer Name: '20littlemen2'
+[2026-06-03 18:32:48.443] [RBXClient] [trace] [20littlemen2 (21228)]: Attaching in-game using translation module.
+[2026-06-03 18:32:48.533] [RBXClient] [debug] [20littlemen2 (21228)]: Bytecode Hash Map: 0x0 (@0x0)
+[2026-06-03 18:32:48.533] [RBXClient] [warning] [20littlemen2 (21228)]: Could not find bytecode hash map, retrying... (2 tries left)
+[2026-06-03 18:32:48.616] [RBXClient] [debug] [20littlemen2 (21228)]: Bytecode Hash Map: 0x0 (@0x0)
+[2026-06-03 18:32:48.616] [RBXClient] [warning] [20littlemen2 (21228)]: Could not find bytecode hash map, retrying... (1 tries left)
+[2026-06-03 18:32:48.707] [RBXClient] [debug] [20littlemen2 (21228)]: Bytecode Hash Map: 0x0 (@0x0)
+[2026-06-03 18:32:48.707] [RBXClient] [warning] [20littlemen2 (21228)]: Could not find bytecode hash map, retrying... (0 tries left)
+[2026-06-03 18:32:48.707] [RBXClient] [critical] [20littlemen2 (21228)]:  Failed to find bytecode hash map
+[2026-06-03 18:32:52.263] [Execution] [error] [21228]: Could not find a CoreModule; Client is not attached
+[2026-06-03 18:32:52.321] [Execution] [error] [21228]: Could not find a CoreModule; Client is not attached
+[2026-06-03 18:32:52.367] [Execution] [error] [21228]: Could not find a CoreModule; Client is not attached
+[2026-06-03 18:33:17.572] [Execution] [error] [21228]: Could not find a CoreModule; Client is not attached
+[2026-06-03 18:33:17.579] [Execution] [error] [21228]: Could not find a CoreModule; Client is not attached
+[2026-06-03 18:33:17.633] [Execution] [error] [21228]: Could not find a CoreModule; Client is not attached
+[2026-06-03 18:33:17.634] [Execution] [error] [21228]: Could not find a CoreModule; Client is not attached
+[2026-06-03 18:33:17.680] [Execution] [error] [21228]: Could not find a CoreModule; Client is not attached
+[2026-06-03 18:33:17.680] [Execution] [error] [21228]: Could not find a CoreModule; Client is not attached
+[2026-06-03 18:33:18.866] [Execution] [error] [21228]: Could not find a CoreModule; Client is not attached
+[2026-06-03 18:33:18.927] [Execution] [error] [21228]: Could not find a CoreModule; Client is not attached
+[2026-06-03 18:33:18.988] [Execution] [error] [21228]: Could not find a CoreModule; Client is not attached
+[2026-06-03 18:33:25.513] [RBXClient] [trace] [20littlemen2 (21228)][::~RBXClient]: Client was closed and cleaned up successfully
+[2026-06-03 18:33:25.513] [Xeno] [info] Removed RBXClient: 21228
+[2026-06-03 18:33:30.522] [Xeno] [info] Cleaned up '21228' from InitializedClients

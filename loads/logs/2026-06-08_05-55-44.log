@@ -1,0 +1,34 @@
+[2026-06-08 05:55:44.170] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-06-08 05:55:44.170] [Xeno] [info] Version: Xeno - v1.3.55
+[2026-06-08 05:55:44.170] [Xeno] [info] Log file: C:\Users\holla\source\repos\Loader\Loader\bin\x64\Release\logs\2026-06-08_05-55-44.log
+[2026-06-08 05:55:44.171] [Xeno] [debug] Client Checker thread: 0x355f7fe110
+[2026-06-08 05:55:44.171] [Xeno] [debug] Xeno Caching thread: 0x355f7fe100
+[2026-06-08 05:55:44.171] [Xeno] [debug] WebSockets Cleaner thread: 0x355f7fe0f0
+[2026-06-08 05:55:44.171] [Cache] [info] Caching file: C:\Users\holla\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-06-08 05:55:44.171] [Xeno] [debug] Xeno Server thread: 0x355f7fe0e0
+[2026-06-08 05:55:44.171] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-06-08 05:55:44.171] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-06-08 05:55:44.182] [Xeno] [info] Creating new RBXClient: 29276
+[2026-06-08 05:55:44.182] [RBXClient] [info] [29276]: Initializing...
+[2026-06-08 05:55:44.182] [RBXClient] [info] [29276]: Version: version-ad5d3e2906444472
+[2026-06-08 05:55:44.182] [Xeno] [debug] Created RBXClient instance @0x2196fbd7cd0
+[2026-06-08 05:55:44.182] [Xeno] [info] Successfully created RBXClient: 29276
+[2026-06-08 05:55:44.182] [RBXClient] [trace] [29276]: Attempting to retrieve RBXClient data...
+[2026-06-08 05:55:44.275] [RBXClient] [trace] [29276]: Successfully retrieved RBXClient data (Primary)
+[2026-06-08 05:55:44.275] [RBXClient] [debug] [29276]: Fetching DataModel...
+[2026-06-08 05:55:44.308] [RBXClient] [debug] [29276]: 	String: 0x1338d12e008
+[2026-06-08 05:55:44.308] [RBXClient] [debug] [29276]: 	RenderView: 0x1338d0ef580
+[2026-06-08 05:55:44.637] [RBXClient] [debug] [29276]: 1823 candidates found for the instruction
+[2026-06-08 05:55:44.637] [RBXClient] [debug] [29276]:  Instruction address: 0x133d187d81a
+[2026-06-08 05:55:44.637] [RBXClient] [debug] [29276]: Bytecode Patch Watcher thread: 0x35687ff9a0
+[2026-06-08 05:55:44.638] [RBXClient] [debug] [29276]: DataModel (Ugc): 0x13393e5da48
+[2026-06-08 05:55:44.639] [RBXClient] [debug] [29276]: LocalPlayer: 0x133852e0080
+[2026-06-08 05:55:44.639] [RBXClient] [debug] [1zigz (29276)]: LocalPlayer Name: '1zigz'
+[2026-06-08 05:55:44.640] [RBXClient] [trace] [1zigz (29276)]: Attaching in-game using translation module.
+[2026-06-08 05:55:44.816] [RBXClient] [trace] [1zigz (29276)]: Intercepted translation module @0x133a0e5c2c0
+[2026-06-08 05:55:44.834] [RBXClient] [trace] [1zigz (29276)][::CRefresh]: Client DataModel refreshed
+[2026-06-08 05:55:44.844] [RBXClient] [trace] [1zigz (29276)][::HandleAutoExecute]: Executed 1 script(s) from autoexec directory
+[2026-06-08 05:55:44.849] [RBXClient] [trace] [1zigz (29276)]: Attach ping received from client "1zigz", This indicates everything was successful.
+[2026-06-08 06:23:33.983] [RBXClient] [trace] [1zigz (29276)][::~RBXClient]: Client was closed and cleaned up successfully
+[2026-06-08 06:23:33.984] [Xeno] [info] Removed RBXClient: 29276
+[2026-06-08 06:23:38.999] [Xeno] [info] Cleaned up '29276' from InitializedClients
