@@ -1,0 +1,126 @@
+[2026-06-07 16:02:55.108] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-06-07 16:02:55.109] [Xeno] [info] Version: Xeno - v1.3.55
+[2026-06-07 16:02:55.109] [Xeno] [info] Log file: C:\Users\holla\source\repos\Loader\Loader\bin\x64\Release\loads\logs\2026-06-07_16-02-55.log
+[2026-06-07 16:02:55.113] [Xeno] [debug] Client Checker thread: 0xea66ffe010
+[2026-06-07 16:02:55.113] [Xeno] [debug] Xeno Caching thread: 0xea66ffe000
+[2026-06-07 16:02:55.113] [Xeno] [debug] WebSockets Cleaner thread: 0xea66ffdff0
+[2026-06-07 16:02:55.114] [Cache] [info] Caching file: C:\Users\holla\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-06-07 16:02:55.114] [Xeno] [debug] Xeno Server thread: 0xea66ffdfe0
+[2026-06-07 16:02:55.114] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-06-07 16:02:55.114] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-06-07 16:02:55.128] [Xeno] [info] Creating new RBXClient: 4776
+[2026-06-07 16:02:55.128] [RBXClient] [info] [4776]: Initializing...
+[2026-06-07 16:02:55.128] [RBXClient] [info] [4776]: Version: version-ad5d3e2906444472
+[2026-06-07 16:02:55.128] [Xeno] [debug] Created RBXClient instance @0x253f58fa470
+[2026-06-07 16:02:55.128] [Xeno] [info] Successfully created RBXClient: 4776
+[2026-06-07 16:02:55.129] [RBXClient] [trace] [4776]: Attempting to retrieve RBXClient data...
+[2026-06-07 16:02:55.399] [RBXClient] [trace] [4776]: Successfully retrieved RBXClient data (Primary)
+[2026-06-07 16:02:55.400] [RBXClient] [debug] [4776]: Fetching DataModel...
+[2026-06-07 16:02:55.440] [RBXClient] [debug] [4776]: 	String: 0x1b48dd78108
+[2026-06-07 16:02:55.441] [RBXClient] [debug] [4776]: 	RenderView: 0x1b48dc9e680
+[2026-06-07 16:02:55.861] [RBXClient] [debug] [4776]: 15755 candidates found for the instruction
+[2026-06-07 16:02:55.875] [RBXClient] [debug] [4776]:  Instruction address: 0x1b4dfcad81a
+[2026-06-07 16:02:55.875] [RBXClient] [debug] [4776]: Bytecode Patch Watcher thread: 0xea6efff7d0
+[2026-06-07 16:02:55.877] [RBXClient] [debug] [4776]: DataModel (Ugc): 0x1b4874f1a48
+[2026-06-07 16:02:55.879] [RBXClient] [debug] [4776]: LocalPlayer: 0x1b488320080
+[2026-06-07 16:02:55.879] [RBXClient] [debug] [coolcatone12 (4776)]: LocalPlayer Name: 'coolcatone12'
+[2026-06-07 16:02:55.881] [RBXClient] [trace] [coolcatone12 (4776)]: Attaching in-game using translation module.
+[2026-06-07 16:02:56.122] [RBXClient] [trace] [coolcatone12 (4776)]: Intercepted translation module @0x1b4885d3c00
+[2026-06-07 16:02:56.145] [RBXClient] [trace] [coolcatone12 (4776)][::CRefresh]: Client DataModel refreshed
+[2026-06-07 16:02:56.663] [RBXClient] [warning] [coolcatone12 (4776)]: Attach is taking longer than expected... (I hate you coolcatone12)
+[2026-06-07 16:02:57.730] [RBXClient] [trace] [coolcatone12 (4776)][::HandleAutoExecute]: Executed 1 script(s) from autoexec directory
+[2026-06-07 16:02:57.733] [RBXClient] [trace] [coolcatone12 (4776)]: Attach ping received from client "coolcatone12", This indicates everything was successful.
+[2026-06-07 16:03:02.515] [Execution] [warning] [4776]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-06-07 16:22:05.539] [RBXClient] [trace] [coolcatone12 (4776)][::PlayerRemoving]: Player leaving ping recieved. We have to reattach.
+[2026-06-07 16:22:05.539] [RBXClient] [trace] [coolcatone12 (4776)][::PlayerRemoving]: DataModel is being loaded...
+[2026-06-07 16:22:08.439] [RBXClient] [trace] 	[coolcatone12 (4776)][::PlayerRemoving]: DataModel was loaded successfully
+[2026-06-07 16:22:08.441] [RBXClient] [info] [coolcatone12 (4776)]: Waiting for you to enter a game...
+[2026-06-07 16:22:10.359] [Xeno] [info] Removed RBXClient: 4776
+[2026-06-07 16:22:10.927] [RBXClient] [critical] [coolcatone12 (4776)]: Client was closed while waiting to enter a game
+[2026-06-07 16:22:10.927] [RBXClient] [trace] [coolcatone12 (4776)][::~RBXClient]: Client was closed and cleaned up successfully
+[2026-06-07 16:22:15.361] [Xeno] [info] Cleaned up '4776' from InitializedClients
+[2026-06-07 16:22:53.979] [Xeno] [info] Creating new RBXClient: 13704
+[2026-06-07 16:22:53.979] [RBXClient] [info] [13704]: Initializing...
+[2026-06-07 16:22:53.979] [RBXClient] [info] [13704]: Version: version-ad5d3e2906444472
+[2026-06-07 16:22:53.979] [Xeno] [debug] Created RBXClient instance @0x253f7ee4760
+[2026-06-07 16:22:53.979] [Xeno] [info] Successfully created RBXClient: 13704
+[2026-06-07 16:22:53.979] [RBXClient] [trace] [13704]: Attempting to retrieve RBXClient data...
+[2026-06-07 16:22:54.318] [RBXClient] [trace] [13704]: Successfully retrieved RBXClient data (Primary)
+[2026-06-07 16:22:54.318] [RBXClient] [debug] [13704]: Fetching DataModel...
+[2026-06-07 16:22:54.374] [RBXClient] [debug] [13704]: 	String: 0x18e373a7e88
+[2026-06-07 16:22:54.374] [RBXClient] [debug] [13704]: 	RenderView: 0x18e372bf580
+[2026-06-07 16:22:54.627] [RBXClient] [debug] [13704]: 2980 candidates found for the instruction
+[2026-06-07 16:22:54.628] [RBXClient] [debug] [13704]:  Instruction address: 0x18d2237d81a
+[2026-06-07 16:22:54.628] [RBXClient] [debug] [13704]: Bytecode Patch Watcher thread: 0xea68fff840
+[2026-06-07 16:22:54.629] [RBXClient] [debug] [13704]: DataModel (Ugc): 0x18e2d901a48
+[2026-06-07 16:22:54.630] [RBXClient] [debug] [13704]: LocalPlayer: 0x18e39961880
+[2026-06-07 16:22:54.630] [RBXClient] [debug] [coolcatone12 (13704)]: LocalPlayer Name: 'coolcatone12'
+[2026-06-07 16:22:54.631] [RBXClient] [info] [coolcatone12 (13704)]: Waiting for your game to load...
+[2026-06-07 16:22:56.268] [RBXClient] [info] [coolcatone12 (13704)]:  Game has loaded (yielding)
+[2026-06-07 16:22:56.268] [RBXClient] [trace] [coolcatone12 (13704)]: Attaching in-game using translation module.
+[2026-06-07 16:22:56.409] [RBXClient] [trace] [coolcatone12 (13704)]: Intercepted translation module @0x18e2f013c00
+[2026-06-07 16:22:56.942] [RBXClient] [warning] [coolcatone12 (13704)]: Attach is taking longer than expected... (I hate you coolcatone12)
+[2026-06-07 16:22:57.287] [RBXClient] [trace] [coolcatone12 (13704)][::CRefresh]: Client DataModel refreshed
+[2026-06-07 16:22:57.293] [RBXClient] [trace] [coolcatone12 (13704)][::HandleAutoExecute]: Executed 1 script(s) from autoexec directory
+[2026-06-07 16:22:57.295] [RBXClient] [trace] [coolcatone12 (13704)]: Attach ping received from client "coolcatone12", This indicates everything was successful.
+[2026-06-07 16:47:31.522] [RBXClient] [trace] [coolcatone12 (13704)][::PlayerRemoving]: Player leaving ping recieved. We have to reattach.
+[2026-06-07 16:47:31.522] [RBXClient] [trace] [coolcatone12 (13704)][::PlayerRemoving]: DataModel is being loaded...
+[2026-06-07 16:47:35.847] [RBXClient] [trace] 	[coolcatone12 (13704)][::PlayerRemoving]: DataModel was loaded successfully
+[2026-06-07 16:47:35.849] [RBXClient] [info] [coolcatone12 (13704)]: Waiting for you to enter a game...
+[2026-06-07 16:47:52.927] [Xeno] [info] Removed RBXClient: 13704
+[2026-06-07 16:47:53.128] [RBXClient] [critical] [coolcatone12 (13704)]: Client was closed while waiting to enter a game
+[2026-06-07 16:47:53.128] [RBXClient] [trace] [coolcatone12 (13704)][::~RBXClient]: Client was closed and cleaned up successfully
+[2026-06-07 16:47:57.939] [Xeno] [info] Cleaned up '13704' from InitializedClients
+[2026-06-07 16:48:38.021] [Xeno] [info] Creating new RBXClient: 20352
+[2026-06-07 16:48:38.021] [RBXClient] [info] [20352]: Initializing...
+[2026-06-07 16:48:38.021] [RBXClient] [info] [20352]: Version: version-ad5d3e2906444472
+[2026-06-07 16:48:38.021] [Xeno] [debug] Created RBXClient instance @0x253f7ee4140
+[2026-06-07 16:48:38.021] [Xeno] [info] Successfully created RBXClient: 20352
+[2026-06-07 16:48:38.021] [RBXClient] [trace] [20352]: Attempting to retrieve RBXClient data...
+[2026-06-07 16:48:38.260] [RBXClient] [trace] [20352]: Successfully retrieved RBXClient data (Primary)
+[2026-06-07 16:48:38.261] [RBXClient] [debug] [20352]: Fetching DataModel...
+[2026-06-07 16:48:38.326] [RBXClient] [debug] [20352]: 	String: 0x2aac15c9c88
+[2026-06-07 16:48:38.326] [RBXClient] [debug] [20352]: 	RenderView: 0x2aac159f580
+[2026-06-07 16:48:38.701] [RBXClient] [debug] [20352]: 2155 candidates found for the instruction
+[2026-06-07 16:48:38.702] [RBXClient] [debug] [20352]:  Instruction address: 0x2a9ad8ed81a
+[2026-06-07 16:48:38.703] [RBXClient] [debug] [20352]: Bytecode Patch Watcher thread: 0xea687ff800
+[2026-06-07 16:48:38.704] [RBXClient] [debug] [20352]: DataModel (Ugc): 0x2aab8b82648
+[2026-06-07 16:48:38.705] [RBXClient] [debug] [20352]: LocalPlayer: 0x2aabc531880
+[2026-06-07 16:48:38.705] [RBXClient] [debug] [coolcatone12 (20352)]: LocalPlayer Name: 'coolcatone12'
+[2026-06-07 16:48:38.706] [RBXClient] [trace] [coolcatone12 (20352)]: Attaching in-game using translation module.
+[2026-06-07 16:48:38.887] [RBXClient] [trace] [coolcatone12 (20352)]: Intercepted translation module @0x2aaba2b3c00
+[2026-06-07 16:48:38.902] [RBXClient] [trace] [coolcatone12 (20352)][::CRefresh]: Client DataModel refreshed
+[2026-06-07 16:48:38.908] [RBXClient] [trace] [coolcatone12 (20352)][::HandleAutoExecute]: Executed 1 script(s) from autoexec directory
+[2026-06-07 16:48:38.912] [RBXClient] [trace] [coolcatone12 (20352)]: Attach ping received from client "coolcatone12", This indicates everything was successful.
+[2026-06-07 16:48:42.315] [Execution] [warning] [20352]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-06-07 16:48:42.530] [Execution] [warning] [20352]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-06-07 16:48:45.619] [Execution] [warning] [20352]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-06-07 16:48:45.879] [Execution] [warning] [20352]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-06-07 16:48:46.093] [Execution] [warning] [20352]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-06-07 16:48:46.816] [RBXClient] [trace] [coolcatone12 (20352)][::~RBXClient]: Client was closed and cleaned up successfully
+[2026-06-07 16:48:46.816] [Xeno] [info] Removed RBXClient: 20352
+[2026-06-07 16:48:51.821] [Xeno] [info] Cleaned up '20352' from InitializedClients
+[2026-06-07 16:49:57.237] [Xeno] [info] Creating new RBXClient: 1988
+[2026-06-07 16:49:57.237] [RBXClient] [info] [1988]: Initializing...
+[2026-06-07 16:49:57.237] [RBXClient] [info] [1988]: Version: version-ad5d3e2906444472
+[2026-06-07 16:49:57.237] [Xeno] [debug] Created RBXClient instance @0x253f9c9e520
+[2026-06-07 16:49:57.237] [Xeno] [info] Successfully created RBXClient: 1988
+[2026-06-07 16:49:57.237] [RBXClient] [trace] [1988]: Attempting to retrieve RBXClient data...
+[2026-06-07 16:49:57.522] [RBXClient] [trace] [1988]: Successfully retrieved RBXClient data (Primary)
+[2026-06-07 16:49:57.523] [RBXClient] [debug] [1988]: Fetching DataModel...
+[2026-06-07 16:49:57.559] [RBXClient] [debug] [1988]: 	String: 0x12d31c09008
+[2026-06-07 16:49:57.559] [RBXClient] [debug] [1988]: 	RenderView: 0x12d31aafa80
+[2026-06-07 16:49:57.943] [RBXClient] [debug] [1988]: 1996 candidates found for the instruction
+[2026-06-07 16:49:57.944] [RBXClient] [debug] [1988]:  Instruction address: 0x12c1fffd81a
+[2026-06-07 16:49:57.944] [RBXClient] [debug] [1988]: Bytecode Patch Watcher thread: 0xea697ff800
+[2026-06-07 16:49:57.945] [RBXClient] [debug] [1988]: DataModel (Ugc): 0x12d2af03e48
+[2026-06-07 16:49:57.946] [RBXClient] [debug] [1988]: LocalPlayer: 0x12d2b563080
+[2026-06-07 16:49:57.946] [RBXClient] [debug] [coolcatone12 (1988)]: LocalPlayer Name: 'coolcatone12'
+[2026-06-07 16:49:57.947] [RBXClient] [trace] [coolcatone12 (1988)]: Attaching in-game using translation module.
+[2026-06-07 16:49:58.132] [RBXClient] [trace] [coolcatone12 (1988)]: Intercepted translation module @0x12d2c8d3c00
+[2026-06-07 16:49:58.147] [RBXClient] [trace] [coolcatone12 (1988)][::CRefresh]: Client DataModel refreshed
+[2026-06-07 16:49:58.153] [RBXClient] [trace] [coolcatone12 (1988)][::HandleAutoExecute]: Executed 1 script(s) from autoexec directory
+[2026-06-07 16:49:58.155] [RBXClient] [trace] [coolcatone12 (1988)]: Attach ping received from client "coolcatone12", This indicates everything was successful.
+[2026-06-07 16:50:46.837] [RBXClient] [trace] [coolcatone12 (1988)][::~RBXClient]: Client was closed and cleaned up successfully
+[2026-06-07 16:50:46.837] [Xeno] [info] Removed RBXClient: 1988
+[2026-06-07 16:50:51.851] [Xeno] [info] Cleaned up '1988' from InitializedClients
