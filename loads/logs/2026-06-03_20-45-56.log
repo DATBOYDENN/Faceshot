@@ -1,0 +1,37 @@
+[2026-06-03 20:45:56.868] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-06-03 20:45:56.869] [Xeno] [info] Version: Xeno - v1.3.50
+[2026-06-03 20:45:56.869] [Xeno] [info] Log file: C:\Users\holla\source\repos\Loader\Loader\bin\x64\Release\logs\2026-06-03_20-45-56.log
+[2026-06-03 20:45:56.872] [Xeno] [debug] Client Checker thread: 0x5899dfdde0
+[2026-06-03 20:45:56.872] [Xeno] [debug] Xeno Caching thread: 0x5899dfddd0
+[2026-06-03 20:45:56.872] [Xeno] [debug] WebSockets Cleaner thread: 0x5899dfddc0
+[2026-06-03 20:45:56.872] [Cache] [info] Caching file: C:\Users\holla\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-06-03 20:45:56.872] [Xeno] [debug] Xeno Server thread: 0x5899dfddb0
+[2026-06-03 20:45:56.874] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-06-03 20:45:56.874] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-06-03 20:45:56.881] [Cache] [warning] Failed to read cached client PID #0
+[2026-06-03 20:45:56.888] [Xeno] [info] Creating new RBXClient: 9840
+[2026-06-03 20:45:56.889] [RBXClient] [info] [9840]: Initializing...
+[2026-06-03 20:45:56.889] [RBXClient] [info] [9840]: Version: version-ad5d3e2906444472
+[2026-06-03 20:45:56.889] [Xeno] [debug] Created RBXClient instance @0x160fd2b98e0
+[2026-06-03 20:45:56.889] [Xeno] [info] Successfully created RBXClient: 9840
+[2026-06-03 20:45:56.889] [RBXClient] [trace] [9840]: Attempting to retrieve RBXClient data...
+[2026-06-03 20:45:57.170] [RBXClient] [trace] [9840]: Successfully retrieved RBXClient data (Primary)
+[2026-06-03 20:45:57.170] [RBXClient] [error] [9840]: Offsets for version "version-ad5d3e2906444472" not found. Using offsets from default version: version-460909c4fe904aae. Please report this to me (Rizve)
+[2026-06-03 20:45:57.171] [RBXClient] [debug] [9840]: Fetching DataModel...
+[2026-06-03 20:45:57.215] [RBXClient] [debug] [9840]: 	String: 0x1b58efa8108
+[2026-06-03 20:45:57.215] [RBXClient] [debug] [9840]: 	RenderView: 0x1b58eeaf580
+[2026-06-03 20:45:57.342] [RBXClient] [debug] [9840]: Bytecode Hash Map: 0x0 (@0x0)
+[2026-06-03 20:45:57.343] [RBXClient] [debug] [9840]: DataModel (Ugc): 0x1b586d53e48
+[2026-06-03 20:45:57.344] [RBXClient] [debug] [9840]: LocalPlayer: 0x1b58a661880
+[2026-06-03 20:45:57.344] [RBXClient] [debug] [20littlemen2 (9840)]: LocalPlayer Name: '20littlemen2'
+[2026-06-03 20:45:57.345] [RBXClient] [trace] [20littlemen2 (9840)]: Attaching in-game using translation module.
+[2026-06-03 20:45:57.469] [RBXClient] [debug] [20littlemen2 (9840)]: Bytecode Hash Map: 0x0 (@0x0)
+[2026-06-03 20:45:57.469] [RBXClient] [warning] [20littlemen2 (9840)]: Could not find bytecode hash map, retrying... (2 tries left)
+[2026-06-03 20:45:57.574] [RBXClient] [debug] [20littlemen2 (9840)]: Bytecode Hash Map: 0x0 (@0x0)
+[2026-06-03 20:45:57.574] [RBXClient] [warning] [20littlemen2 (9840)]: Could not find bytecode hash map, retrying... (1 tries left)
+[2026-06-03 20:45:57.674] [RBXClient] [debug] [20littlemen2 (9840)]: Bytecode Hash Map: 0x0 (@0x0)
+[2026-06-03 20:45:57.674] [RBXClient] [warning] [20littlemen2 (9840)]: Could not find bytecode hash map, retrying... (0 tries left)
+[2026-06-03 20:45:57.674] [RBXClient] [critical] [20littlemen2 (9840)]:  Failed to find bytecode hash map
+[2026-06-03 20:46:01.204] [Execution] [error] [9840]: Could not find a CoreModule; Client is not attached
+[2026-06-03 20:46:01.261] [Execution] [error] [9840]: Could not find a CoreModule; Client is not attached
+[2026-06-03 20:46:01.324] [Execution] [error] [9840]: Could not find a CoreModule; Client is not attached

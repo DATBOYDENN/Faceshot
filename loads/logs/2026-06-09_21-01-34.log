@@ -1,0 +1,75 @@
+[2026-06-09 21:01:34.544] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-06-09 21:01:34.544] [Xeno] [info] Version: Xeno - v1.3.55
+[2026-06-09 21:01:34.544] [Xeno] [info] Log file: C:\Users\holla\source\repos\Loader\Loader\bin\x64\Release\loads\logs\2026-06-09_21-01-34.log
+[2026-06-09 21:01:34.547] [Xeno] [debug] Client Checker thread: 0xae113fd980
+[2026-06-09 21:01:34.547] [Xeno] [debug] Xeno Caching thread: 0xae113fd970
+[2026-06-09 21:01:34.547] [Xeno] [debug] WebSockets Cleaner thread: 0xae113fd960
+[2026-06-09 21:01:34.547] [Xeno] [debug] Xeno Server thread: 0xae113fd950
+[2026-06-09 21:01:34.547] [Cache] [info] Caching file: C:\Users\holla\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-06-09 21:01:34.548] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-06-09 21:01:34.548] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-06-09 21:01:34.557] [Xeno] [info] Creating new RBXClient: 3668
+[2026-06-09 21:01:34.557] [RBXClient] [info] [3668]: Initializing...
+[2026-06-09 21:01:34.557] [RBXClient] [info] [3668]: Version: version-76173e47a79145c7
+[2026-06-09 21:01:34.557] [Xeno] [debug] Created RBXClient instance @0x27fe2c7c160
+[2026-06-09 21:01:34.557] [Xeno] [info] Successfully created RBXClient: 3668
+[2026-06-09 21:01:34.557] [RBXClient] [trace] [3668]: Attempting to retrieve RBXClient data...
+[2026-06-09 21:01:34.641] [RBXClient] [trace] [3668]: Successfully retrieved RBXClient data (Primary)
+[2026-06-09 21:01:34.642] [RBXClient] [debug] [3668]: Fetching DataModel...
+[2026-06-09 21:01:34.689] [RBXClient] [debug] [3668]: 	String: 0x2212c8c9f08
+[2026-06-09 21:01:34.689] [RBXClient] [debug] [3668]: 	RenderView: 0x2212c947e80
+[2026-06-09 21:01:35.053] [RBXClient] [debug] [3668]: 1940 candidates found for the instruction
+[2026-06-09 21:01:35.055] [RBXClient] [debug] [3668]: Bytecode Patch Watcher thread: 0xae1b3ff570
+[2026-06-09 21:01:35.057] [RBXClient] [debug] [3668]: DataModel (Ugc): 0x221249f3250
+[2026-06-09 21:01:35.058] [RBXClient] [debug] [3668]: LocalPlayer: 0x22127611880
+[2026-06-09 21:01:35.058] [RBXClient] [debug] [20littlemen2 (3668)]: LocalPlayer Name: '20littlemen2'
+[2026-06-09 21:01:35.059] [RBXClient] [trace] [20littlemen2 (3668)]: Attaching in-game using translation module.
+[2026-06-09 21:01:35.215] [RBXClient] [trace] [20littlemen2 (3668)]: Intercepted translation module @0x22126212380
+[2026-06-09 21:01:35.755] [RBXClient] [warning] [20littlemen2 (3668)]: Attach is taking longer than expected... (I hate you 20littlemen2)
+[2026-06-09 21:01:37.829] [RBXClient] [warning] [20littlemen2 (3668)]: Did not receive the success ping from client. Using RefreshRBXWindowV2...
+[2026-06-09 21:01:38.616] [Execution] [error] [3668]: Could not find a CoreModule; You are not attached properly. There might be a error with the client init script or your Roblox window failed to refresh
+[2026-06-09 21:01:38.693] [Execution] [error] [3668]: Could not find a CoreModule; You are not attached properly. There might be a error with the client init script or your Roblox window failed to refresh
+[2026-06-09 21:01:38.723] [Execution] [error] [3668]: Could not find a CoreModule; You are not attached properly. There might be a error with the client init script or your Roblox window failed to refresh
+[2026-06-09 21:01:39.906] [RBXClient] [warning] [20littlemen2 (3668)]: Still did not receive the success ping from client. Attempting to restart current thread...
+[2026-06-09 21:01:39.907] [RBXClient] [info] [20littlemen2 (3668)]: RenderView retrieved from Cache: 0x2212c947e80
+[2026-06-09 21:01:40.245] [RBXClient] [debug] [20littlemen2 (3668)]: 2011 candidates found for the instruction
+[2026-06-09 21:01:40.246] [RBXClient] [debug] [20littlemen2 (3668)]:  Instruction address: 0x220198bf1ba
+[2026-06-09 21:01:40.246] [RBXClient] [debug] [20littlemen2 (3668)]: Bytecode Patch Watcher thread: 0xae1b3ff570
+[2026-06-09 21:01:40.247] [RBXClient] [debug] [20littlemen2 (3668)]: DataModel (Ugc): 0x221249f3250
+[2026-06-09 21:01:40.248] [RBXClient] [debug] [20littlemen2 (3668)]: LocalPlayer: 0x22127611880
+[2026-06-09 21:01:40.248] [RBXClient] [debug] [20littlemen2 (3668)]: LocalPlayer Name: '20littlemen2'
+[2026-06-09 21:01:40.248] [RBXClient] [trace] [20littlemen2 (3668)]: Attaching in-game using translation module.
+[2026-06-09 21:01:40.443] [RBXClient] [trace] [20littlemen2 (3668)]: Intercepted translation module @0x22126212380
+[2026-06-09 21:01:40.984] [RBXClient] [warning] [20littlemen2 (3668)]: Attach is taking longer than expected... (I hate you 20littlemen2)
+[2026-06-09 21:01:41.472] [RBXClient] [trace] [20littlemen2 (3668)][::CRefresh]: Client DataModel refreshed
+[2026-06-09 21:01:41.478] [RBXClient] [trace] [20littlemen2 (3668)][::HandleAutoExecute]: Executed 1 script(s) from autoexec directory
+[2026-06-09 21:01:41.479] [RBXClient] [trace] [20littlemen2 (3668)]: Attach ping received from client "20littlemen2", This indicates everything was successful.
+[2026-06-09 21:01:49.569] [RBXClient] [trace] [20littlemen2 (3668)][::BytecodePatchWatcherT]: Threshold reached. Workers failed to call restore (Automatically restoring to prevent crash)
+[2026-06-09 21:01:49.569] [RBXClient] [trace] [20littlemen2 (3668)][::BytecodePatchWatcherT]: Threshold reached. Workers failed to call restore (Automatically restoring to prevent crash)
+[2026-06-09 21:01:51.857] [RBXClient] [trace] [20littlemen2 (3668)][::~RBXClient]: Client was closed and cleaned up successfully
+[2026-06-09 21:01:51.857] [Xeno] [info] Removed RBXClient: 3668
+[2026-06-09 21:01:56.860] [Xeno] [info] Cleaned up '3668' from InitializedClients
+[2026-06-09 21:02:31.088] [Xeno] [info] Creating new RBXClient: 22768
+[2026-06-09 21:02:31.088] [RBXClient] [info] [22768]: Initializing...
+[2026-06-09 21:02:31.088] [RBXClient] [info] [22768]: Version: version-76173e47a79145c7
+[2026-06-09 21:02:31.088] [Xeno] [debug] Created RBXClient instance @0x27fe7904730
+[2026-06-09 21:02:31.088] [Xeno] [info] Successfully created RBXClient: 22768
+[2026-06-09 21:02:31.088] [RBXClient] [trace] [22768]: Attempting to retrieve RBXClient data...
+[2026-06-09 21:02:31.147] [RBXClient] [trace] [22768]: Successfully retrieved RBXClient data (Primary)
+[2026-06-09 21:02:31.147] [RBXClient] [debug] [22768]: Fetching DataModel...
+[2026-06-09 21:02:31.212] [RBXClient] [debug] [22768]: 	String: 0x296af2f5188
+[2026-06-09 21:02:31.212] [RBXClient] [debug] [22768]: 	RenderView: 0x296a3067e80
+[2026-06-09 21:02:31.520] [RBXClient] [debug] [22768]: 2721 candidates found for the instruction
+[2026-06-09 21:02:31.520] [RBXClient] [debug] [22768]:  Instruction address: 0x2958de9f1ba
+[2026-06-09 21:02:31.520] [RBXClient] [debug] [22768]: Bytecode Patch Watcher thread: 0xae11fff310
+[2026-06-09 21:02:31.521] [RBXClient] [debug] [22768]: DataModel (Ugc): 0x296a66bf250
+[2026-06-09 21:02:31.522] [RBXClient] [debug] [22768]: LocalPlayer: 0x296a1de9080
+[2026-06-09 21:02:31.522] [RBXClient] [debug] [20littlemen2 (22768)]: LocalPlayer Name: '20littlemen2'
+[2026-06-09 21:02:31.523] [RBXClient] [trace] [20littlemen2 (22768)]: Attaching in-game using translation module.
+[2026-06-09 21:02:31.683] [RBXClient] [trace] [20littlemen2 (22768)]: Intercepted translation module @0x296a64ccd40
+[2026-06-09 21:02:31.694] [RBXClient] [trace] [20littlemen2 (22768)][::CRefresh]: Client DataModel refreshed
+[2026-06-09 21:02:31.699] [RBXClient] [trace] [20littlemen2 (22768)][::HandleAutoExecute]: Executed 1 script(s) from autoexec directory
+[2026-06-09 21:02:31.708] [RBXClient] [trace] [20littlemen2 (22768)]: Attach ping received from client "20littlemen2", This indicates everything was successful.
+[2026-06-09 21:33:51.369] [RBXClient] [trace] [20littlemen2 (22768)][::~RBXClient]: Client was closed and cleaned up successfully
+[2026-06-09 21:33:51.369] [Xeno] [info] Removed RBXClient: 22768
+[2026-06-09 21:33:56.381] [Xeno] [info] Cleaned up '22768' from InitializedClients
