@@ -1,0 +1,125 @@
+[2026-06-27 22:18:50.601] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-06-27 22:18:50.601] [Xeno] [info] Version: Xeno - v1.3.55
+[2026-06-27 22:18:50.601] [Xeno] [info] Log file: C:\Users\holla\source\repos\Loader\Loader\bin\x64\Release\loads\logs\2026-06-27_22-18-50.log
+[2026-06-27 22:18:50.602] [Xeno] [debug] Client Checker thread: 0x82d5dfda60
+[2026-06-27 22:18:50.602] [Xeno] [debug] Xeno Caching thread: 0x82d5dfda50
+[2026-06-27 22:18:50.602] [Xeno] [debug] WebSockets Cleaner thread: 0x82d5dfda40
+[2026-06-27 22:18:50.602] [Cache] [info] Caching file: C:\Users\holla\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-06-27 22:18:50.603] [Xeno] [debug] Xeno Server thread: 0x82d5dfda30
+[2026-06-27 22:18:50.603] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-06-27 22:18:50.603] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-06-27 22:18:50.615] [Xeno] [info] Creating new RBXClient: 29220
+[2026-06-27 22:18:50.615] [RBXClient] [info] [29220]: Initializing...
+[2026-06-27 22:18:50.615] [RBXClient] [info] [29220]: Version: version-1a951716f19e4638
+[2026-06-27 22:18:50.615] [Xeno] [debug] Created RBXClient instance @0x1aafe7bcc60
+[2026-06-27 22:18:50.615] [Xeno] [info] Successfully created RBXClient: 29220
+[2026-06-27 22:18:50.615] [RBXClient] [trace] [29220]: Attempting to retrieve RBXClient data...
+[2026-06-27 22:18:50.791] [RBXClient] [trace] [29220]: Successfully retrieved RBXClient data (Primary)
+[2026-06-27 22:18:50.791] [RBXClient] [debug] [29220]: Fetching DataModel...
+[2026-06-27 22:18:50.860] [RBXClient] [debug] [29220]: 	String: 0x252b8f2c708
+[2026-06-27 22:18:50.861] [RBXClient] [debug] [29220]: 	RenderView: 0x252a55e9380
+[2026-06-27 22:18:51.339] [RBXClient] [debug] [29220]: 2096 candidates found for the instruction
+[2026-06-27 22:18:51.340] [RBXClient] [debug] [29220]:  Instruction address: 0x25191adc82a
+[2026-06-27 22:18:51.340] [RBXClient] [debug] [29220]: Bytecode Patch Watcher thread: 0x82e023f6f0
+[2026-06-27 22:18:51.341] [RBXClient] [debug] [29220]: DataModel (Ugc): 0x253815d9e48
+[2026-06-27 22:18:51.343] [RBXClient] [debug] [29220]: LocalPlayer: 0x252d443c080
+[2026-06-27 22:18:51.343] [RBXClient] [debug] [1zigz (29220)]: LocalPlayer Name: '1zigz'
+[2026-06-27 22:18:51.344] [RBXClient] [trace] [1zigz (29220)]: Attaching in-game using translation module.
+[2026-06-27 22:18:51.538] [RBXClient] [trace] [1zigz (29220)]: Intercepted translation module @0x2537f8ce240
+[2026-06-27 22:18:51.561] [RBXClient] [trace] [1zigz (29220)][::CRefresh]: Client DataModel refreshed
+[2026-06-27 22:18:51.571] [RBXClient] [trace] [1zigz (29220)][::HandleAutoExecute]: Executed 1 script(s) from autoexec directory
+[2026-06-27 22:18:51.572] [RBXClient] [trace] [1zigz (29220)]: Attach ping received from client "1zigz", This indicates everything was successful.
+[2026-06-27 22:19:56.815] [RBXClient] [trace] [1zigz (29220)][::PlayerRemoving]: Player leaving ping recieved. We have to reattach.
+[2026-06-27 22:19:56.815] [RBXClient] [trace] [1zigz (29220)][::PlayerRemoving]: DataModel is being loaded...
+[2026-06-27 22:19:56.871] [RBXClient] [trace] 	[1zigz (29220)][::PlayerRemoving]: DataModel was loaded successfully
+[2026-06-27 22:19:56.873] [RBXClient] [info] [1zigz (29220)]: Waiting for you to enter a game...
+[2026-06-27 22:20:58.342] [RBXClient] [info] [1zigz (29220)]:  Game has loaded (yielding)
+[2026-06-27 22:20:58.342] [RBXClient] [trace] [1zigz (29220)]: Attaching in-game using translation module.
+[2026-06-27 22:20:58.577] [RBXClient] [trace] [1zigz (29220)]: Intercepted translation module @0x25384628c80
+[2026-06-27 22:20:59.118] [RBXClient] [warning] [1zigz (29220)]: Attach is taking longer than expected... (I hate you 1zigz)
+[2026-06-27 22:20:59.258] [RBXClient] [trace] [1zigz (29220)][::CRefresh]: Client DataModel refreshed
+[2026-06-27 22:20:59.265] [RBXClient] [trace] [1zigz (29220)]: Attach ping received from client "1zigz", This indicates everything was successful.
+[2026-06-27 22:20:59.335] [Execution] [warning] [29220]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-06-27 22:35:29.089] [RBXClient] [trace] [1zigz (29220)][::PlayerRemoving]: Player leaving ping recieved. We have to reattach.
+[2026-06-27 22:35:29.089] [RBXClient] [trace] [1zigz (29220)][::PlayerRemoving]: DataModel is being loaded...
+[2026-06-27 22:35:29.151] [RBXClient] [trace] 	[1zigz (29220)][::PlayerRemoving]: DataModel was loaded successfully
+[2026-06-27 22:35:29.153] [RBXClient] [info] [1zigz (29220)]: Waiting for you to enter a game...
+[2026-06-27 22:36:46.256] [RBXClient] [info] [1zigz (29220)]:  Game has loaded (yielding)
+[2026-06-27 22:36:46.256] [RBXClient] [trace] [1zigz (29220)]: Attaching in-game using translation module.
+[2026-06-27 22:36:46.430] [RBXClient] [trace] [1zigz (29220)]: Intercepted translation module @0x25395286ec0
+[2026-06-27 22:36:46.963] [RBXClient] [warning] [1zigz (29220)]: Attach is taking longer than expected... (I hate you 1zigz)
+[2026-06-27 22:36:49.007] [RBXClient] [warning] [1zigz (29220)]: Client is attached but failed to ping the server due to unstable network -- Xeno may not work properly on a slow or unstable network!
+[2026-06-27 22:36:51.425] [RBXClient] [trace] [1zigz (29220)][::BytecodePatchWatcherT]: Threshold reached. Workers failed to call restore (Automatically restoring to prevent crash)
+[2026-06-27 22:36:52.234] [RBXClient] [trace] [1zigz (29220)][::CRefresh]: Client DataModel refreshed
+[2026-06-27 22:36:52.243] [RBXClient] [trace] [1zigz (29220)]: Attach ping received from client "1zigz", This indicates everything was successful.
+[2026-06-27 22:36:59.958] [RBXClient] [trace] [1zigz (29220)][::~RBXClient]: Client was closed and cleaned up successfully
+[2026-06-27 22:36:59.958] [Xeno] [info] Removed RBXClient: 29220
+[2026-06-27 22:37:04.961] [Xeno] [info] Cleaned up '29220' from InitializedClients
+[2026-06-27 22:48:21.477] [Xeno] [info] Creating new RBXClient: 7908
+[2026-06-27 22:48:21.477] [RBXClient] [info] [7908]: Initializing...
+[2026-06-27 22:48:21.477] [RBXClient] [info] [7908]: Version: version-1a951716f19e4638
+[2026-06-27 22:48:21.477] [Xeno] [debug] Created RBXClient instance @0x1aafbeab970
+[2026-06-27 22:48:21.477] [Xeno] [info] Successfully created RBXClient: 7908
+[2026-06-27 22:48:21.477] [RBXClient] [trace] [7908]: Attempting to retrieve RBXClient data...
+[2026-06-27 22:48:21.574] [RBXClient] [trace] [7908]: Successfully retrieved RBXClient data (Primary)
+[2026-06-27 22:48:21.575] [RBXClient] [debug] [7908]: Fetching DataModel...
+[2026-06-27 22:48:21.631] [RBXClient] [debug] [7908]: 	String: 0x14d1bd0cc08
+[2026-06-27 22:48:21.631] [RBXClient] [debug] [7908]: 	RenderView: 0x14d0ef81c80
+[2026-06-27 22:48:22.056] [RBXClient] [debug] [7908]: 2764 candidates found for the instruction
+[2026-06-27 22:48:22.057] [RBXClient] [debug] [7908]:  Instruction address: 0x14d4bd6c82a
+[2026-06-27 22:48:22.057] [RBXClient] [debug] [7908]: Bytecode Patch Watcher thread: 0x82d85ff850
+[2026-06-27 22:48:22.058] [RBXClient] [debug] [7908]: DataModel (Ugc): 0x14d09b50248
+[2026-06-27 22:48:22.059] [RBXClient] [debug] [7908]: LocalPlayer: 0x14d32ff1880
+[2026-06-27 22:48:22.059] [RBXClient] [debug] [1zigz (7908)]: LocalPlayer Name: '1zigz'
+[2026-06-27 22:48:22.060] [RBXClient] [trace] [1zigz (7908)]: Attaching in-game using translation module.
+[2026-06-27 22:48:22.239] [RBXClient] [trace] [1zigz (7908)]: Intercepted translation module @0x14d207bc640
+[2026-06-27 22:48:22.253] [RBXClient] [trace] [1zigz (7908)][::CRefresh]: Client DataModel refreshed
+[2026-06-27 22:48:22.261] [RBXClient] [trace] [1zigz (7908)][::HandleAutoExecute]: Executed 1 script(s) from autoexec directory
+[2026-06-27 22:48:22.266] [RBXClient] [trace] [1zigz (7908)]: Attach ping received from client "1zigz", This indicates everything was successful.
+[2026-06-27 22:48:27.159] [Execution] [warning] [7908]: Could not verify that the execution module has changed. Script may not be executed! (Your Roblox client cannot keep up and may be overloaded)
+[2026-06-27 23:02:05.624] [RBXClient] [trace] [1zigz (7908)][::PlayerRemoving]: Player leaving ping recieved. We have to reattach.
+[2026-06-27 23:02:05.624] [RBXClient] [trace] [1zigz (7908)][::PlayerRemoving]: DataModel is being loaded...
+[2026-06-27 23:02:06.654] [RBXClient] [trace] 	[1zigz (7908)][::PlayerRemoving]: DataModel was loaded successfully
+[2026-06-27 23:02:06.655] [RBXClient] [info] [1zigz (7908)]: Waiting for you to enter a game...
+[2026-06-27 23:02:09.534] [RBXClient] [info] [1zigz (7908)]:  Game has loaded (yielding)
+[2026-06-27 23:02:09.534] [RBXClient] [trace] [1zigz (7908)]: Attaching in-game using translation module.
+[2026-06-27 23:02:09.714] [RBXClient] [trace] [1zigz (7908)]: Intercepted translation module @0x14f31c10940
+[2026-06-27 23:02:10.276] [RBXClient] [warning] [1zigz (7908)]: Attach is taking longer than expected... (I hate you 1zigz)
+[2026-06-27 23:02:10.562] [RBXClient] [trace] [1zigz (7908)][::CRefresh]: Client DataModel refreshed
+[2026-06-27 23:02:10.575] [RBXClient] [trace] [1zigz (7908)]: Attach ping received from client "1zigz", This indicates everything was successful.
+[2026-06-27 23:04:07.158] [RBXClient] [trace] [1zigz (7908)][::PlayerRemoving]: Player leaving ping recieved. We have to reattach.
+[2026-06-27 23:04:07.158] [RBXClient] [trace] [1zigz (7908)][::PlayerRemoving]: DataModel is being loaded...
+[2026-06-27 23:04:07.229] [RBXClient] [trace] 	[1zigz (7908)][::PlayerRemoving]: DataModel was loaded successfully
+[2026-06-27 23:04:07.231] [RBXClient] [info] [1zigz (7908)]: Waiting for you to enter a game...
+[2026-06-27 23:04:11.889] [RBXClient] [info] [1zigz (7908)]:  Game has loaded (yielding)
+[2026-06-27 23:04:11.889] [RBXClient] [trace] [1zigz (7908)]: Attaching in-game using translation module.
+[2026-06-27 23:04:12.081] [RBXClient] [trace] [1zigz (7908)]: Intercepted translation module @0x14d3ef3ac00
+[2026-06-27 23:04:12.118] [RBXClient] [trace] [1zigz (7908)][::CRefresh]: Client DataModel refreshed
+[2026-06-27 23:04:12.130] [RBXClient] [trace] [1zigz (7908)]: Attach ping received from client "1zigz", This indicates everything was successful.
+[2026-06-27 23:05:15.773] [RBXClient] [trace] [1zigz (7908)][::PlayerRemoving]: Player leaving ping recieved. We have to reattach.
+[2026-06-27 23:05:15.773] [RBXClient] [trace] [1zigz (7908)][::PlayerRemoving]: DataModel is being loaded...
+[2026-06-27 23:05:16.453] [RBXClient] [trace] 	[1zigz (7908)][::PlayerRemoving]: DataModel was loaded successfully
+[2026-06-27 23:05:16.454] [RBXClient] [info] [1zigz (7908)]: Waiting for you to enter a game...
+[2026-06-27 23:05:19.386] [RBXClient] [info] [1zigz (7908)]:  Game has loaded (yielding)
+[2026-06-27 23:05:19.386] [RBXClient] [trace] [1zigz (7908)]: Attaching in-game using translation module.
+[2026-06-27 23:05:19.600] [RBXClient] [trace] [1zigz (7908)]: Intercepted translation module @0x14d2e743180
+[2026-06-27 23:05:20.144] [RBXClient] [warning] [1zigz (7908)]: Attach is taking longer than expected... (I hate you 1zigz)
+[2026-06-27 23:05:20.715] [RBXClient] [trace] [1zigz (7908)][::CRefresh]: Client DataModel refreshed
+[2026-06-27 23:05:20.726] [RBXClient] [trace] [1zigz (7908)]: Attach ping received from client "1zigz", This indicates everything was successful.
+[2026-06-27 23:18:27.129] [RBXClient] [trace] [1zigz (7908)][::PlayerRemoving]: Player leaving ping recieved. We have to reattach.
+[2026-06-27 23:18:27.129] [RBXClient] [trace] [1zigz (7908)][::PlayerRemoving]: DataModel is being loaded...
+[2026-06-27 23:18:27.199] [RBXClient] [trace] 	[1zigz (7908)][::PlayerRemoving]: DataModel was loaded successfully
+[2026-06-27 23:18:27.216] [RBXClient] [info] [1zigz (7908)]: Waiting for you to enter a game...
+[2026-06-27 23:18:44.750] [RBXClient] [info] [1zigz (7908)]:  Game has loaded (yielding)
+[2026-06-27 23:18:44.750] [RBXClient] [trace] [1zigz (7908)]: Attaching in-game using translation module.
+[2026-06-27 23:18:44.972] [RBXClient] [trace] [1zigz (7908)]: Intercepted translation module @0x14d1abb7400
+[2026-06-27 23:18:45.082] [RBXClient] [trace] [1zigz (7908)][::CRefresh]: Client DataModel refreshed
+[2026-06-27 23:18:45.092] [RBXClient] [trace] [1zigz (7908)]: Attach ping received from client "1zigz", This indicates everything was successful.
+[2026-06-27 23:19:08.115] [RBXClient] [trace] [1zigz (7908)][::PlayerRemoving]: Player leaving ping recieved. We have to reattach.
+[2026-06-27 23:19:08.115] [RBXClient] [trace] [1zigz (7908)][::PlayerRemoving]: DataModel is being loaded...
+[2026-06-27 23:19:08.829] [RBXClient] [trace] 	[1zigz (7908)][::PlayerRemoving]: DataModel was loaded successfully
+[2026-06-27 23:19:08.830] [RBXClient] [info] [1zigz (7908)]: Waiting for you to enter a game...
+[2026-06-27 23:19:22.381] [Xeno] [info] Removed RBXClient: 7908
+[2026-06-27 23:19:22.739] [RBXClient] [critical] [1zigz (7908)]: Client was closed while waiting to enter a game
+[2026-06-27 23:19:22.739] [RBXClient] [trace] [1zigz (7908)][::~RBXClient]: Client was closed and cleaned up successfully
+[2026-06-27 23:19:27.392] [Xeno] [info] Cleaned up '7908' from InitializedClients
