@@ -54,14 +54,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Loader.exe" size="44976">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Loader.exe" size="51632">
       <assemblyIdentity name="Loader" version="1.0.0.0" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>VgLN5N43CD3fs6Zaoe4fEE3TybpaSaUp1Pg0DB8ki+8=</dsig:DigestValue>
+        <dsig:DigestValue>GQzYIB6ip29xuGICCaS0/fLIRU/09i0bwmWYS7MdM28=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
